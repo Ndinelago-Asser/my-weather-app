@@ -27,6 +27,6 @@ Check it out here: [Weather App on Netlify](https://amazing-taffy-08457f.netlify
 
 Feel free to reach out if you have any questions or feedback about this project:
 
-- **GitHub:** [Ndinelago-Asser](https://github.com/Ndinelago-Asser)
+- **GitHub:** [https://github.com/Ndinelago-Asser)
 - **LinkedIn:** [https://www.linkedin.com/in/ndinelago-j-a-0bb798124/)
 
